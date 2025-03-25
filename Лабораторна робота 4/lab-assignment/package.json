@@ -1,0 +1,16 @@
+{
+  "name": "lab-assignment",
+  "version": "1.0.0",
+  "description": "Jest unit tests for labAssignment.js",
+  "main": "labAssignment.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
